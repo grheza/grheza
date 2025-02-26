@@ -26,6 +26,14 @@ I am a passionate developer with a love for learning new technologies and buildi
 - Agile, Waterfall Methodology
 - MVP, MVVM, VIP, VIPER Architecture
 
+## 👨🏼‍🔧 Personal Skills
+
+- Problem-Solving
+- Leadership
+- Effective Communication
+- Attention to Detail
+- Critical Thinking
+
 ## 📈 GitHub Stats
 
 ![GRheza's GitHub stats](https://github-readme-stats.vercel.app/api?username=grheza&show_icons=true&theme=radical)
