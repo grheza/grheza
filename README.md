@@ -1,4 +1,4 @@
-# Hi there, I'm [Rheza Eko] 👋
+# Hi there, I'm Rheza Eko 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
